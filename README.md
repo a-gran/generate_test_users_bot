@@ -36,19 +36,19 @@
 4. Установить библиотеку telebot.
 
 ```markdown
-pip install telebot
+$ pip install telebot
 ```
 
 5. Установить библиотеку faker.
 
 ```markdown
-pip install faker
+$ pip install faker
 ```
 
 6. Запускаем
 
 ```markdown
-test_users_bot.py
+$ test_users_bot.py
 ```
 
 ## Автор

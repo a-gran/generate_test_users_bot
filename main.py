@@ -9,6 +9,7 @@ import settings
 
 # TODO: вставить свой токен
 bot = TeleBot(settings.API_KEY, parse_mode='html')
+
 # библиотека для генерации тестовых ФИО
 # указываем язык - русский
 faker = Faker('ru_RU')
